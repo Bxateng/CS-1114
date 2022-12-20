@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=WeatherBureauTest
+comment0.text=\n\ \ Test\ class\ for\ the\ WeatherBureau\ class.\n\n\ \ @author\ Aaron\ Boateng\ (9065-47342)\n\ \ @version\ 2022.12.06\n
+comment1.params=
+comment1.target=WeatherBureauTest()
+comment1.text=\n\ Creates\ a\ new\ WeatherBureauTest\ test\ object.\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\n\ Sets\ up\ the\ test\ fixture.\n\ Called\ before\ every\ test\ case\ method.\n
+comment3.params=
+comment3.target=void\ testRecordDailySummary()
+comment3.text=\n\ Tests\ if\ the\ bureau\ correctly\ records\ a\ summary.\n
+comment4.params=
+comment4.target=void\ testRecordDailySummaries()
+comment4.text=\n\ Tests\ if\ the\ bureau\ correctly\ records\ multiple\ summaries.\n
+comment5.params=
+comment5.target=void\ testGetStation()
+comment5.text=\n\ Tests\ if\ the\ getStation\ method\ correctly\ returns\ the\n\ corresponding\ WeatherStation\ object.\n
+comment6.params=
+comment6.target=void\ testLowestStationByMonth()
+comment6.text=\n\ Tests\ for\ the\ station\ with\ the\ least\ average\ rainfall\n\ in\ the\ specified\ month.\n
+comment7.params=
+comment7.target=void\ testLowestStation()
+comment7.text=\n\ Test\ for\ the\ station\ with\ the\ least\ average\ rainfall\ in\n\ any\ month.\n
+numComments=8

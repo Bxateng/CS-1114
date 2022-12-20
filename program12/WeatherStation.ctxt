@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=WeatherStation
+comment0.text=\n\ \ Class\ that\ collects\ the\ data\ necessary\ for\ weather\ observation.\n\n\ \ @author\ Aaron\ Boateng\ (9065-47342)\n\ \ @version\ 2022.12.06\n
+comment1.params=stationId
+comment1.target=WeatherStation(java.lang.String)
+comment1.text=\n\ Initializes\ a\ newly\ created\ WeatherStation\ object.\n\ \n\ @param\ stationId\ the\ ID\ of\ the\ weather\ station\n
+comment2.params=
+comment2.target=java.lang.String\ getId()
+comment2.text=\n\ Returns\ the\ weather\ station\ ID.\n\ \n\ @return\ the\ ID\ of\ the\ station\n
+comment3.params=month\ rain
+comment3.target=void\ recordDailyRain(int,\ double)
+comment3.text=\n\ Records\ one\ daily\ summary\ and\ adds\ the\ rainfall\ to\n\ the\ specified\ month.\n\ \n\ @param\ month\ the\ month\ of\ rain\ being\ added\ on\n\ @param\ rain\ the\ amount\ of\ rain\ being\ added\n
+comment4.params=month
+comment4.target=int\ getCountForMonth(int)
+comment4.text=\n\ Returns\ the\ daily\ rainfall\ values\ for\ the\ \n\ specified\ month.\ Returns\ zero\ if\ no\ values\n\ have\ been\ recorded.\n\ \n\ @param\ month\ the\ month\ of\ rain\ being\ retrieved\n\ @return\ the\ daily\ rainfall\ values\ \n
+comment5.params=month
+comment5.target=double\ getAvgForMonth(int)
+comment5.text=\n\ Returns\ the\ average\ daily\ rainfall\ for\ the\ specified\n\ month.\ Returns\ -1\ if\ no\ values\ have\ been\ recorded.\n\ \n\ @param\ month\ the\ month\ of\ rain\ being\ averaged\n\ @return\ the\ average\ of\ the\ daily\ rainfall\n
+comment6.params=
+comment6.target=int\ getLowestMonth()
+comment6.text=\n\ Returns\ the\ month\ with\ the\ lowest\ average\ of\ rainfall.\n\ If\ two\ have\ the\ same\ amount,\ the\ first\ is\ returned.\n\ If\ no\ values\ have\ been\ recorded\ for\ any\ month,\n\ 1\ (January)\ is\ returned.\n\ \n\ @return\ the\ month\ with\ the\ lowest\ rainfall\ average\n
+numComments=7

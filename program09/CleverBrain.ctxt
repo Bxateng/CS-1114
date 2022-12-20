@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CleverBrain
+comment0.text=\n\ \ Class\ that\ acts\ as\ the\ Tetris\ brain.\n\n\ \ @author\ Aaron\ Boateng\ (9065-47342)\n\ \ @version\ 2022.11.08\n
+comment1.params=
+comment1.target=CleverBrain()
+comment1.text=\n\ Initializes\ a\ newly\ created\ CleverBrain\ object.\n
+comment2.params=board\ piece\ heightLimit
+comment2.target=student.tetris.Move\ bestMove(student.tetris.Board,\ student.tetris.Piece,\ int)
+comment2.text=\n\ Places\ the\ piece\ in\ the\ most\ favorable\ position\ on\ the\ board.\n\ @param\ board\ The\ board\ being\ used\n\ @param\ piece\ The\ piece\ being\ placed\n\ @param\ heightLimit\ The\ highest\ point\ a\ piece\ can\ go\n\ @return\ the\ most\ favorable\ move\n
+comment3.params=board
+comment3.target=double\ rateBoard(student.tetris.Board)
+comment3.text=\n\ Determines\ the\ difficulty\ of\ the\ board.\ The\ higher\n\ the\ score,the\ more\ difficult\ it\ is.\n\ @param\ board\ The\ board\ being\ rated\n\ @return\ the\ rating\ of\ the\ board\n
+comment4.params=board\ piece
+comment4.target=void\ bestLocation(student.tetris.Board,\ student.tetris.Piece)
+comment4.text=\n\ Finds\ the\ best\ possible\ location\ for\ the\ piece\n\ on\ the\ board.\n\ @param\ board\ The\ board\ being\ used\n\ @param\ piece\ The\ piece\ being\ placed\n
+numComments=5

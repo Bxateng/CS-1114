@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=WeatherStationTest
+comment0.text=\n\ \ Test\ class\ for\ the\ WeatherStation\ class\n\n\ \ @author\ Aaron\ Boateng\ (9065-47342)\n\ \ @version\ 2022.12.06\n
+comment1.params=
+comment1.target=WeatherStationTest()
+comment1.text=\n\ Creates\ a\ new\ WeatherStationTest\ test\ object.\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\n\ Sets\ up\ the\ test\ fixture.\n\ Called\ before\ every\ test\ case\ method.\n
+comment3.params=
+comment3.target=void\ testWeatherStation()
+comment3.text=\n\ Tests\ if\ the\ ID\ was\ correctly\ returned\ with\ the\n\ getId\ method.\n
+comment4.params=
+comment4.target=void\ testRecordDailyRain()
+comment4.text=\n\ Tests\ if\ the\ amount\ of\ rainfall\ and\ specified\ month\n\ is\ being\ correctly\ recorded.\n
+comment5.params=
+comment5.target=void\ testGetCountForMonth()
+comment5.text=\n\ Tests\ if\ the\ correct\ values\ are\ being\ returned\ \n\ in\ the\ specified\ month.\n
+comment6.params=
+comment6.target=void\ testGetAvgForMonth()
+comment6.text=\n\ Tests\ if\ the\ correct\ average\ is\ being\ returned\n\ in\ the\ specified\ month.\n
+comment7.params=
+comment7.target=void\ testGetLowestMonth()
+comment7.text=\n\ Tests\ if\ the\ correct\ month\ with\ the\ lowest\ rainfall\n\ is\ returned.\n
+numComments=8

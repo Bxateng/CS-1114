@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=StudentBoardTest
+comment0.text=\n\ \ Test\ class\ that\ checks\ for\ correct\ \n\ \ syntax\ and\ coding\ for\ the\ \n\ \ StudentBoard\ class.\n\n\ \ @author\ Aaron\ Boateng\ (9065-47342)\n\ \ @version\ 2022.11.15\n
+comment1.params=
+comment1.target=StudentBoardTest()
+comment1.text=\n\ Creates\ a\ new\ StudentBoardTest\ test\ object.\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\n\ Sets\ up\ the\ test\ fixture.\n\ Called\ before\ every\ test\ case\ method.\n
+comment3.params=
+comment3.target=void\ testStudentBoard()
+comment3.text=\n\ Tests\ the\ StudentBoard\ constructor\ and\ getter\ methods.\n
+comment4.params=
+comment4.target=void\ testHasBlockAt()
+comment4.text=\n\ Tests\ the\ hasBlockAt\ method\ for\ irregular\ Point\ cases.\n
+comment5.params=
+comment5.target=void\ testPlace()
+comment5.text=\n\ Tests\ the\ place\ method\ to\ check\ if\ the\ row\ is\ filled\n\ and\ if\ columnHeights\ are\ updated.\n
+comment6.params=
+comment6.target=void\ testClearRows()
+comment6.text=\n\ Tests\ the\ clearRows\ method\ to\ check\ if\ the\ blocksInAllRows,\n\ columnHeights,\ and\ topmost\ row\ are\ correctly\ updated.\n
+numComments=7

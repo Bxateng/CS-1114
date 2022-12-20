@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Army
+comment0.text=\n\ \ Class\ that\ includes\ various\ squads\ and\ units.\n\n\ \ @author\ Aaron\ Boateng\ (9065-47342)\n\ \ @version\ 2022.11.01\n
+comment1.params=armyN\ armyF\ playerN
+comment1.target=Army(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\n\ Initializes\ a\ newly\ created\ Army\ object.\n
+comment2.params=
+comment2.target=java.lang.String\ getPlayerName()
+comment2.text=\n\ Returns\ the\ name\ of\ the\ player\ who\ controls\n\ the\ army.\n\ @return\ the\ name\ of\ the\ player\n
+comment3.params=pn
+comment3.target=void\ setPlayerName(java.lang.String)
+comment3.text=\n\ Names\ the\ player\ who\ controls\ the\ army.\n\ @param\ pn\ the\ new\ name\ of\ the\ player\n
+comment4.params=
+comment4.target=java.lang.String\ getFaction()
+comment4.text=\n\ Returns\ the\ name\ of\ the\ army's\ faction.\n\ @return\ the\ army's\ faction\n
+comment5.params=fact
+comment5.target=void\ setFaction(java.lang.String)
+comment5.text=\n\ Names\ the\ faction\ where\ the\ army\ originates.\n\ @param\ fact\ the\ new\ name\ for\ the\ faction\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ Overrides\ the\ toString\ method\ to\ return\ the\ \n\ player\ name,\ faction\ and\ army\ of\ the\ unit\n\ @return\ the\ player\ name,\ faction\ and\ army\ of\ the\ unit\n
+numComments=7

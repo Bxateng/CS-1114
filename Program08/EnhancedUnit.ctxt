@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=EnhancedUnit
+comment0.text=\n\ \ Subclass\ of\ Unit\ that\ creates\ a\ unit\ with\ \n\ \ a\ special\ condition.\n\n\ \ @author\ Aaron\ Boateng\ (9065-47342)\n\ \ @version\ 2022.10.25\n
+comment1.params=name\ points
+comment1.target=EnhancedUnit(java.lang.String,\ int)
+comment1.text=\n\ Initializes\ a\ newly\ created\ EnhancedUnit\ object.\n\ @param\ name\ the\ name\ of\ the\ enhanced\ unit\n\ @param\ points\ the\ point\ value\ of\ the\ enhanced\ unit\n
+comment2.params=
+comment2.target=java.lang.String\ getSpecialRule()
+comment2.text=\n\ Returns\ the\ description\ of\ the\ unit's\ special\ ability.\n\ @return\ the\ description\ of\ the\ special\ rule\n
+comment3.params=s
+comment3.target=void\ setSpecialRule(java.lang.String)
+comment3.text=\n\ Creates\ a\ new\ description\ of\ the\ unit's\ special\ ability.\n\ @param\ s\ the\ description\ of\ the\ special\ rule\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ Overrides\ the\ toString\ method\ to\ return\ the\ \n\ special\ rule\ of\ the\ unit\n\ @return\ the\ special\ rule\ of\ the\ unit\n
+numComments=5

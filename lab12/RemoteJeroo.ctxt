@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=RemoteJeroo
+comment0.text=\n\ \ A\ remotely\ controllable\ jeroo\ that\ reads\ commands\n\ \ from\ a\ scanner\ and\ carries\ out\ the\ corresponding\ actions\n\ \ one\ at\ a\ time.\n\n\ \ @author\ Aaron\ Boateng\ (9065-47342)\n\ \ @version\ 2022.11.11\n
+comment1.params=
+comment1.target=RemoteJeroo()
+comment1.text=\n\ Creates\ a\ new\ RemoteJeroo\ object.\n
+comment2.params=input
+comment2.target=void\ interpretAllCommands(java.util.Scanner)
+comment2.text=\n\ Calls\ interpretCommand()\ repeatedly\ until\ there\ are\ no\ more\n\ words\ left\ in\ the\ given\ Scanner.\n\ \n\ @param\ input\ The\ Scanner\ to\ read\ the\ command\ from.\n
+comment3.params=input
+comment3.target=void\ interpretCommand(java.util.Scanner)
+comment3.text=\n\ Reads\ one\ word\ from\ the\ scanner\ (if\ there\ is\ any),\ and\ executes\n\ the\ corresponding\ command.\ \ If\ the\ scanner\ has\ no\ words\ remaining,\n\ then\ nothing\ happens.\n\ \n\ @param\ input\ The\ Scanner\ to\ read\ the\ command\ from.\n
+comment4.params=
+comment4.target=void\ forward()
+comment4.text=\n\ Moves\ the\ actor\ forward\ one\ square.\n
+comment5.params=
+comment5.target=void\ left()
+comment5.text=\n\ Turns\ the\ actor\ left\ 90\ degrees.\n
+comment6.params=
+comment6.target=void\ right()
+comment6.text=\n\ Turns\ the\ actor\ right\ 90\ degrees.\n
+numComments=7

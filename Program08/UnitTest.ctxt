@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=UnitTest
+comment0.text=\n\ \ Tests\ the\ getter\ and\ setter\ methods\ in\ the\ Unit\ class\ \n\ \ as\ well\ as\ the\ constructor.\n\n\ \ @author\ Aaron\ Boateng\ (9065-47342)\n\ \ @version\ 2022.10.25\n
+comment1.params=
+comment1.target=UnitTest()
+comment1.text=\n\ Creates\ a\ new\ UnitTest\ test\ object.\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\n\ Sets\ up\ the\ test\ fixture.\n\ Called\ before\ every\ test\ case\ method.\n
+comment3.params=
+comment3.target=void\ testUnit()
+comment3.text=\n\ Tests\ the\ constructor\ to\ see\ if\ all\ values\ and\ objects\n\ were\ properly\ intialized.\n
+comment4.params=
+comment4.target=void\ testSetName()
+comment4.text=\n\ Tests\ the\ setter\ method\ for\ the\ unit's\ name.\n
+comment5.params=
+comment5.target=void\ testSetPoints()
+comment5.text=\n\ Tests\ the\ setter\ method\ for\ the\ unit's\ point\ value.\n
+comment6.params=
+comment6.target=void\ testSetQuality()
+comment6.text=\n\ Tests\ the\ setter\ method\ for\ the\ unit's\ quality.\n
+comment7.params=
+comment7.target=void\ testSetDefense()
+comment7.text=\n\ Tests\ the\ setter\ method\ for\ the\ unit's\ defense.\n
+numComments=8

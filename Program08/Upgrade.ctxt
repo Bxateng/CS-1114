@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Upgrade
+comment0.text=\n\ \ Class\ that\ attributes\ upgrades\ to\ \n\ \ specific\ units.\n\n\ \ @author\ Aaron\ Boateng\ (9065-47342)\n\ \ @version\ 2022.11.01\n
+comment1.params=upName\ upPoints
+comment1.target=Upgrade(java.lang.String,\ int)
+comment1.text=\n\ Initializes\ a\ newly\ created\ Upgrade\ object.\n\ @param\ upName\ the\ name\ of\ the\ upgrade\n\ @param\ upPoints\ the\ point\ value\ of\ the\ upgrade\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\n\ Get\ this\ GameElement's\ name.\n\n\ @return\ This\ object's\ name\ as\ a\ string.\n
+comment3.params=n
+comment3.target=void\ setName(java.lang.String)
+comment3.text=\n\ Creates\ a\ new\ name\ for\ the\ unit.\n\ @param\ n\ the\ new\ name\ of\ the\ unit\n
+comment4.params=
+comment4.target=int\ getPoints()
+comment4.text=\n\ Get\ this\ GameElement's\ cost\ in\ points.\n\n\ @return\ The\ number\ of\ points\ for\ this\ object.\n
+comment5.params=p
+comment5.target=void\ setPoints(int)
+comment5.text=\n\ Creates\ a\ new\ point\ value\ for\ the\ unit.\n\ @param\ p\ the\ new\ point\ value\ of\ the\ unit\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ Overrides\ the\ toString\ method\ to\ return\ a\ string\n\ detailing\ the\ name\ of\ the\ upgrade\ and\ the\ point\ value.\n\ @return\ the\ name\ of\ the\ upgrade\ and\ point\ value\n
+numComments=7

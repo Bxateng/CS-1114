@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=SquadTest
+comment0.text=\n\ \ Write\ a\ one-sentence\ summary\ of\ your\ test\ class\ here.\n\ \ Summarize\ what\ your\ test\ objectives\ are.\n\n\ \ @author\ Aaron\ Boateng\ (9065-47342)\n\ \ @version\ 2022.11.01\n
+comment1.params=
+comment1.target=SquadTest()
+comment1.text=\n\ Creates\ a\ new\ SquadTest\ test\ object.\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\n\ Sets\ up\ the\ test\ fixture.\n\ Called\ before\ every\ test\ case\ method.\n
+comment3.params=
+comment3.target=void\ testSquad()
+comment3.text=\n\ Tests\ the\ getter\ methods\ and\ the\ constructor\ of\n\ the\ Squad\ class\n
+comment4.params=
+comment4.target=void\ testAddUnit()
+comment4.text=\n\ text\n
+comment5.params=
+comment5.target=void\ testRemoveUnit()
+comment5.text=\n\ text\n
+comment6.params=
+comment6.target=void\ testGetPoints()
+comment6.text=\n\ text\n
+numComments=7

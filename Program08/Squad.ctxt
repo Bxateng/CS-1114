@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Squad
+comment0.text=\n\ \ Class\ that\ gathers\ several\ units\ into\ a\ squad.\n\n\ \ @author\ Aaron\ Boateng\ (9065-47342)\n\ \ @version\ 2022.11.01\n
+comment1.params=name
+comment1.target=Squad(java.lang.String)
+comment1.text=\n\ Initializes\ a\ newy\ created\ Squad\ object.\n
+comment2.params=
+comment2.target=java.util.List\ getUnits()
+comment2.text=\n\ Returns\ the\ list\ of\ units.\n\ @return\ the\ list\ of\ units\n
+comment3.params=u
+comment3.target=void\ addUnit(Unit)
+comment3.text=\n\ Adds\ a\ unit\ to\ the\ list\ of\ units.\n\ @param\ u\ the\ unit\ being\ added\n
+comment4.params=u
+comment4.target=void\ removeUnit(Unit)
+comment4.text=\n\ Removes\ a\ unit\ from\ the\ list\ of\ units.\n\ @param\ u\ the\ unit\ being\ removed\n
+comment5.params=
+comment5.target=int\ getPoints()
+comment5.text=\n\ Overrides\ the\ getPoints\ method\ to\ return\ the\ \n\ sum\ of\ the\ points\ of\ all\ units\ in\ the\ squad\n\ plus\ the\ sum\ of\ the\ upgrades\ that\ have\ been\n\ added\ to\ the\ squad.\n\ @return\ the\ sum\ of\ points\ and\ upgrades\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ Overrides\ the\ toString\ method\ to\ return\ the\ upgrade\n\ of\ the\ squad\n\ @return\ the\ upgrade\ of\ the\ squad\n
+numComments=7

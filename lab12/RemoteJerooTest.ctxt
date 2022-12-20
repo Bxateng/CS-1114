@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=RemoteJerooTest
+comment0.text=\n\ \ Tests\ for\ the\ RemoteJeroo\ class.\n\n\ \ @author\ Aaron\ Boateng\ (9065-47342)\n\ \ @version\ 2022.11.11\n
+comment1.params=
+comment1.target=RemoteJerooTest()
+comment1.text=\n\ Creates\ a\ new\ RemoteJerooTest\ test\ object.\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\n\ Sets\ up\ the\ test\ fixture.\n\ Called\ before\ every\ test\ case\ method.\n
+comment3.params=
+comment3.target=void\ testForward()
+comment3.text=\n\ Test\ RemoteJeroo\ with\ a\ scanner\ containing\ three\ "forward"\ commands.\n
+comment4.params=
+comment4.target=void\ testLeft()
+comment4.text=\n\ Test\ RemoteJeroo\ with\ a\ scanner\ containing\ a\ "left"\ command.\n
+comment5.params=
+comment5.target=void\ testRight()
+comment5.text=\n\ Test\ RemoteJeroo\ with\ a\ scanner\ containing\ a\ "right"\ command.\n
+comment6.params=
+comment6.target=void\ testMyProgram()
+comment6.text=\n\ Test\ for\ myProgram\ with\ a\ scanner\ containing\ multiple\ commands.\n
+numComments=7

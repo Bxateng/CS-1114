@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MonsterTest
+comment0.text=\n\ \ Tests\ the\ getter\ and\ setter\ methods\ in\ the\ Monster\ class\ \n\ \ as\ well\ as\ the\ constructor.\n\n\ \ @author\ Aaron\ Boateng\ (9065-47342)\n\ \ @version\ 2022.10.25\n
+comment1.params=
+comment1.target=MonsterTest()
+comment1.text=\n\ Creates\ a\ new\ MonsterTest\ test\ object.\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\n\ Sets\ up\ the\ test\ fixture.\n\ Called\ before\ every\ test\ case\ method.\n
+comment3.params=
+comment3.target=void\ testMonster()
+comment3.text=\n\ Tests\ the\ constructor\ to\ see\ if\ all\ values\ and\ \n\ objects\ were\ properly\ intialized.\n
+numComments=4

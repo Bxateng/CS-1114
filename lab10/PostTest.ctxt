@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=PostTest
+comment0.text=\n\ \ Test\ class\ for\ the\ Post\ class.\n\n\ \ @author\ Aaron\ Boateng\ (9065-47342)\n\ \ @version\ 2022.10.28\n
+comment1.params=
+comment1.target=PostTest()
+comment1.text=\n\ Creates\ a\ new\ PostTest\ test\ object.\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\n\ Sets\ up\ the\ test\ fixture.\n\ Called\ before\ every\ test\ case\ method.\n
+comment3.params=
+comment3.target=void\ testGetName()
+comment3.text=\n\ Test\ method\ for\ the\ getName\ method.\n
+comment4.params=
+comment4.target=void\ testGetMessage()
+comment4.text=\n\ Test\ method\ for\ the\ getMessage\ method.\n
+numComments=5
